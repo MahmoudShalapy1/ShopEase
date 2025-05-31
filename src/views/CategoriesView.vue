@@ -1,5 +1,8 @@
 <template>
   <header-component />
+  <div class="cstegories">
+    <h2>categories</h2>
+  </div>
   <FooterComponent />
 </template>
 

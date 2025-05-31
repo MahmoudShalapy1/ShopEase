@@ -1,5 +1,8 @@
 <template>
   <header-component />
+  <div class="products">
+    <h2>products</h2>
+  </div>
   <FooterComponent />
 </template>
 

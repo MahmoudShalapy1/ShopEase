@@ -1,5 +1,8 @@
 <template>
   <header-component />
+  <div class="contact">
+    <h2>contact</h2>
+  </div>
   <FooterComponent />
 </template>
 
